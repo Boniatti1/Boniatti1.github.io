@@ -47,11 +47,6 @@ Sistema de segurança apresentado ao **Programa Talento Tech 2024** – Projeto 
 
 ---
 
-### [🔗 river-ai.onrender.com](https://river-ai.onrender.com)
-Chatbot web desenvolvido com **ASP.NET Core** no backend e **HTML/CSS/JS** no frontend.  
-Contribuí no desenvolvimento das APIs e na interface da aplicação.
-
----
 
 ## 🧠 Stack / Skills
 
